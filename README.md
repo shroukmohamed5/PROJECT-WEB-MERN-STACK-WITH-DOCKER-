@@ -47,7 +47,8 @@ docker build -t mern-backend .
 `docker compose up -d`
 
 
-<img width="962" height="89" alt="image" src="https://github.com/user-attachments/assets/9052de75-6c1d-421f-b80d-568dff92ffd4" />
+<img width="961" height="149" alt="image" src="https://github.com/user-attachments/assets/e9a5a0b1-7006-45d3-bac8-e04ff78ebb15" />
+
 
 
 
